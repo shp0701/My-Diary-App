@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="캘린더"
+        android:icon="@drawable/ic_calendar_24"
+        android:id="@+id/navi_menu_calender"/>
+
+    <item android:title="포토다이어리"
+        android:icon="@drawable/ic_photo_24"
+        android:id="@+id/navi_menu_photo"/>
+
+    <item android:title="오늘의 할일"
+        android:icon="@drawable/ic_list_24"
+        android:id="@+id/navi_menu_list"/>
+
+</menu>
