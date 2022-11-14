@@ -1,6 +1,6 @@
 
 # My-Diary-App
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Diary App &fontSize=90&animation=fadeIn&fontAlignY=38&desc=SuHwa&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=diary app &fontSize=90&animation=fadeIn&fontAlignY=38&desc=SuHwa&descAlignY=60&descAlign=62)
 # Summary
 Memo android App
 App Bar, Fragmnet, RecyclerView, DrawerLayout
