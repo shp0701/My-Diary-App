@@ -1,10 +1,10 @@
 
-# My-Diary-App
+# My-Diary-App(기능 추가예정)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DiaryApp&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SuHwa&descAlignY=60&descAlign=62)
 # Summary
 <Memo android App>
 App Bar, Fragmnet, RecyclerView, DrawerLayout
-ViewPager, 확장 탭 등 기능 구현
+ViewPager, 확장 탭 등 기능 구현// 사진추가 등 기능 추가예정
 
 ## Development Environment
 | Category | Content |
