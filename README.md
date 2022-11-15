@@ -19,3 +19,4 @@ ViewPager, 확장 탭 등 기능 구현// 사진추가 등 기능 추가예정
 ## Result
 ![diary2](https://user-images.githubusercontent.com/115531871/201713374-5bb9f754-2693-4c82-b76f-9c82dffc467f.gif)
 
+![KakaoTalk_Recording_20221115_090354](https://user-images.githubusercontent.com/115531871/201793830-4ef541dd-c443-4312-8fdd-924c19fe23b1.gif)
